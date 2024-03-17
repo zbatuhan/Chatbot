@@ -3,7 +3,6 @@ import streamlit as st
 from dotenv import load_dotenv
 import shelve
 
-
 gradient_text_html = """
 <style>
 .gradient-text {
